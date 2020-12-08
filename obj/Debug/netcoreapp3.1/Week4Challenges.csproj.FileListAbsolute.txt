@@ -1,0 +1,13 @@
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.exe
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.deps.json
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.runtimeconfig.json
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.runtimeconfig.dev.json
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.dll
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\bin\Debug\netcoreapp3.1\Week4Challenges.pdb
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.AssemblyInfoInputs.cache
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.AssemblyInfo.cs
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.dll
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.pdb
+D:\ElevenFiftyProjects\CSharpFundementals\Week4Challenges\obj\Debug\netcoreapp3.1\Week4Challenges.genruntimeconfig.cache
